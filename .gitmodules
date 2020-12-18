@@ -1,0 +1,12 @@
+[submodule "api-server"]
+	path = api-server
+	url = https://github.com/mathiashsteffensen/book-tid-api
+[submodule "admin-ui"]
+	path = admin-ui
+	url = https://github.com/mathiashsteffensen/book-tid-admin-ui
+[submodule "client-ui"]
+	path = client-ui
+	url = https://github.com/mathiashsteffensen/book-tid-client-ui
+[submodule "booking-ui"]
+	path = booking-ui
+	url = https://github.com/mathiashsteffensen/book-tid-client-ui
