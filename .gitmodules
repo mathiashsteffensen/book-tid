@@ -6,6 +6,9 @@
 	url = https://github.com/mathiashsteffensen/book-tid-admin-ui
 [submodule "booking-ui"]
 	path = booking-ui
+	url = https://gitlab.com/MathiasHSteffensen/book-tid-client-ui
+[submodule "deprecated-booking-ui"]
+	path = deprecated/booking-ui
 	url = https://github.com/mathiashsteffensen/book-tid-client-ui
 [submodule "sysadmin-ui"]
 	path = sysadmin-ui
