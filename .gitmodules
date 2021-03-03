@@ -13,3 +13,6 @@
 [submodule "sysadmin-ui"]
 	path = sysadmin-ui
 	url = https://gitlab.com/MathiasHSteffensen/book-tid-sysadmin-ui
+[submodule "sms-sender"]
+	path = sms-sender
+	url = https://github.com/mathiashsteffensen/book-tid-sms-sender
