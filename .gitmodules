@@ -7,3 +7,6 @@
 [submodule "booking-ui"]
 	path = booking-ui
 	url = https://github.com/mathiashsteffensen/book-tid-client-ui
+[submodule "sysadmin-ui"]
+	path = sysadmin-ui
+	url = https://gitlab.com/MathiasHSteffensen/book-tid-sysadmin-ui
